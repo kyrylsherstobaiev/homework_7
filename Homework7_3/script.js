@@ -17,7 +17,6 @@ function getMaxs() {
 	console.log(arrayMax);
 }
 
-
 //***********************the second option*********************
 
 //function getMaxs() {
